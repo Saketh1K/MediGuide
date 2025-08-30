@@ -50,6 +50,6 @@ MediGuide is a web application that provides various healthcare functionalities 
 
 ## Contributors
 
-- [Upendra](https://github.com/Upendra2003)
-- [Rohan](https://github.com/RohanReddy2003)
-- [Abhiram Royals](https://github.com/Royal-Dragon)
+- [Saketh Kodukulla ]((https://github.com/Saketh1K))
+- [Sheik Vaseem]
+
